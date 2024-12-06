@@ -883,24 +883,29 @@ COPYRIGHT MMX BY PLAYDEAD ApS </Comment>
 						</RTPCValue>
 					</RTPCValueList>
 					<CurrentStateList ShowAll="true">
-						<CurrentStateRef Name="None" ID="{13F990E6-ABBD-4C0C-AE32-0A92F3C4EF5A}"/>
-						<CurrentStateRef Name="None" ID="{601F4DB1-E0E3-44A3-AA4D-4ECE36CC24C3}"/>
-						<CurrentStateRef Name="amb_sws_darkness_sawJump" ID="{2909A7A3-0065-4A19-8F1B-8E2E0630F87A}"/>
+						<CurrentStateRef Name="default0dB" ID="{19F5BE0A-9055-4BA9-A751-119AAF682116}"/>
+						<CurrentStateRef Name="amb_sws_start_falling_cave" ID="{A20CE8F3-AC03-4B0C-8E50-31980AB0DD2F}"/>
+						<CurrentStateRef Name="None" ID="{5B1A40F7-78DB-42C3-A064-FEFCDF49D5F4}"/>
 						<CurrentStateRef Name="None" ID="{86124F47-6FAE-4F2B-9AE7-812D7B80DE20}"/>
 						<CurrentStateRef Name="aboveWater" ID="{A3C5E87B-F5C2-4602-937A-81067C99114D}"/>
-						<CurrentStateRef Name="amb_sws_water_zombieSewer_enterScene" ID="{3B7986B2-FD82-4DFB-A7FD-ED887A491F2E}"/>
+						<CurrentStateRef Name="normal" ID="{F8E5C6AE-8B92-4F10-9D46-1570FC31F77B}"/>
+						<CurrentStateRef Name="None" ID="{22BEFB23-61EC-4884-95EA-F78136A4F987}"/>
+						<CurrentStateRef Name="None" ID="{D6248CF1-9AF5-4A47-8B3E-8D265CEABF89}"/>
 						<CurrentStateRef Name="None" ID="{0ECADF30-1888-4DB0-943E-2FE9CF808976}"/>
 						<CurrentStateRef Name="normal" ID="{D8A3BE4B-90AC-4B79-8D64-B4BA3DB0A365}"/>
 						<CurrentStateRef Name="menu" ID="{1C180493-C2D9-4BFE-8121-AAA4BEF2F259}"/>
-						<CurrentStateRef Name="amb_sws_old_rotatingIntro_rotate2rope" ID="{0E80F434-9BA7-4EE5-AFFD-33445AA911A6}"/>
+						<CurrentStateRef Name="crying" ID="{45DAF44E-EB06-43EC-8939-6C7FDE0DAC1B}"/>
+						<CurrentStateRef Name="None" ID="{3E2BE73A-F6BA-4728-92FC-648819A67508}"/>
 						<CurrentStateRef Name="stop" ID="{F77EB7B8-111A-4208-82F7-3E81682E1843}"/>
-						<CurrentStateRef Name="amb_sws_spider_sitting_unfold" ID="{BF315A2E-D45C-46A7-8EF9-6744334D8FB9}"/>
+						<CurrentStateRef Name="None" ID="{9F1F6070-0FD3-432B-8265-6F0EC74DE09E}"/>
 						<CurrentStateRef Name="off" ID="{F9D1C0FC-82AA-40DF-81FD-D91BF67B647A}"/>
-						<CurrentStateRef Name="off" ID="{6597CA5A-51F4-4CCA-93AC-A973F2AB0E4A}"/>
+						<CurrentStateRef Name="None" ID="{BFD3F5E8-BBF5-4657-9B66-D1357552AB55}"/>
 						<CurrentStateRef Name="None" ID="{2F40968D-C830-4B07-949B-907A856182F3}"/>
 						<CurrentStateRef Name="None" ID="{961DA136-C523-42CA-AB1D-33E33E158299}"/>
-						<CurrentStateRef Name="amb_sws_darkness" ID="{17C77F1D-BBBF-47B8-92E4-69F11C2BFB06}"/>
+						<CurrentStateRef Name="None" ID="{4698862D-C18C-4E7B-A0D1-F76DA6A417EE}"/>
+						<CurrentStateRef Name="amb_sws_start" ID="{334AC6BC-F805-4C36-B28C-05039F66B047}"/>
 						<CurrentStateRef Name="None" ID="{EDF4DC27-8FE4-4D17-A11C-F6A02F4F6CBE}"/>
+						<CurrentStateRef Name="off" ID="{27D4ECDD-0E28-4910-B6B3-72E4462F9855}"/>
 					</CurrentStateList>
 					<CurrentSwitchList ShowAll="true">
 						<CurrentSwitchRef Name="f" ID="{678BD337-5316-4D6E-B453-4BD22033091A}"/>

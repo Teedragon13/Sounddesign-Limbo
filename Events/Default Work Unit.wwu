@@ -2195,13 +2195,13 @@ COPYRIGHT MMX BY PLAYDEAD ApS </Comment>
 								</Event>
 								<Event Name="env_start_falling_boySitUpEnd" ID="{F6CF82AC-84FC-4301-8C83-09E89A3F1E20}">
 									<ChildrenList>
-										<Action Name="" ID="{A0FF52D5-338D-4A4D-B646-3D39A957309C}" ShortID="471913701">
+										<Action Name="" ID="{ACADEF3B-C7E8-4DFF-8F0B-EA671CDBB1BE}" ShortID="5049429">
 											<PropertyList>
 												<Property Name="ActionType" Type="int16" Value="1"/>
 											</PropertyList>
 											<ReferenceList>
 												<Reference Name="Target">
-													<ObjectRef Name="GirlSecondScream" ID="{B2125A27-B76D-418B-A776-151DF709A1AC}" WorkUnitID="{670B9AC0-15C4-4823-AF0D-CDDF68AFC02C}"/>
+													<ObjectRef Name="GirlSecondScream" ID="{FEF59860-1DA4-41B2-AA98-0F5D89DC9430}" WorkUnitID="{670B9AC0-15C4-4823-AF0D-CDDF68AFC02C}"/>
 												</Reference>
 											</ReferenceList>
 										</Action>
@@ -7723,6 +7723,16 @@ COPYRIGHT MMX BY PLAYDEAD ApS </Comment>
 																</Reference>
 															</ReferenceList>
 														</Action>
+														<Action Name="" ID="{1D041DA0-5536-4224-884B-CED919C679C2}" ShortID="321824841">
+															<PropertyList>
+																<Property Name="ActionType" Type="int16" Value="22"/>
+															</PropertyList>
+															<ReferenceList>
+																<Reference Name="Target">
+																	<ObjectRef Name="screaming" ID="{61038A2C-143A-4084-8B63-27AA03ED8FF4}" WorkUnitID="{52274FCC-FF38-4EDD-81BF-EC82E4A946E4}"/>
+																</Reference>
+															</ReferenceList>
+														</Action>
 													</ChildrenList>
 												</Event>
 												<Event Name="amb_start_falling_cliff2" ID="{7BB05F79-B2F0-48A8-91F6-BDA01197E722}">
@@ -7896,26 +7906,6 @@ COPYRIGHT MMX BY PLAYDEAD ApS </Comment>
 															<ReferenceList>
 																<Reference Name="Target" CompanyID="4095" PluginID="65535" PluginType="15">
 																	<ObjectRef Name="amb_start_falling_bird" ID="{85F660E6-2D2C-427A-A70D-5D78E154528A}" WorkUnitID="{670B9AC0-15C4-4823-AF0D-CDDF68AFC02C}"/>
-																</Reference>
-															</ReferenceList>
-														</Action>
-														<Action Name="" ID="{D6C74128-1B2A-4FF8-8D3B-3774D20B0F50}" ShortID="1022677185">
-															<PropertyList>
-																<Property Name="ActionType" Type="int16" Value="1"/>
-															</PropertyList>
-															<ReferenceList>
-																<Reference Name="Target">
-																	<ObjectRef Name="GirlThirdScream" ID="{D4D0A718-DE58-41E3-BEF6-3018DDC6A42E}" WorkUnitID="{670B9AC0-15C4-4823-AF0D-CDDF68AFC02C}"/>
-																</Reference>
-															</ReferenceList>
-														</Action>
-														<Action Name="" ID="{32C8383B-7384-4359-9AF7-9A6D60419A06}" ShortID="325713552">
-															<PropertyList>
-																<Property Name="ActionType" Type="int16" Value="22"/>
-															</PropertyList>
-															<ReferenceList>
-																<Reference Name="Target">
-																	<ObjectRef Name="screaming" ID="{61038A2C-143A-4084-8B63-27AA03ED8FF4}" WorkUnitID="{52274FCC-FF38-4EDD-81BF-EC82E4A946E4}"/>
 																</Reference>
 															</ReferenceList>
 														</Action>
