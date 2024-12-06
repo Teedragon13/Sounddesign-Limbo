@@ -2140,13 +2140,13 @@ COPYRIGHT MMX BY PLAYDEAD ApS </Comment>
 							<ChildrenList>
 								<Event Name="env_start_falling_boyEyesOpen" ID="{249174F4-16F2-4FBE-BC73-6B61FDD97036}">
 									<ChildrenList>
-										<Action Name="" ID="{16A0A132-27D1-4933-A080-183A945DF259}" ShortID="20744821">
+										<Action Name="" ID="{ED0BF23F-2692-4765-9486-FDF495E0FB8D}" ShortID="512282021">
 											<PropertyList>
-												<Property Name="ActionType" Type="int16" Value="23"/>
+												<Property Name="ActionType" Type="int16" Value="22"/>
 											</PropertyList>
 											<ReferenceList>
 												<Reference Name="Target">
-													<ObjectRef Name="scripted" ID="{76DC0BE6-5B31-4AB1-B53B-888C0B96CA50}" WorkUnitID="{D8C2D23D-E0CA-43D7-AAD8-D0E3BA7A36C4}"/>
+													<ObjectRef Name="scripted" ID="{38B94287-297F-45F3-8825-7717FDB5B77E}" WorkUnitID="{52274FCC-FF38-4EDD-81BF-EC82E4A946E4}"/>
 												</Reference>
 											</ReferenceList>
 										</Action>
@@ -2175,16 +2175,6 @@ COPYRIGHT MMX BY PLAYDEAD ApS </Comment>
 												</Reference>
 											</ReferenceList>
 										</Action>
-										<Action Name="" ID="{F7C1E57B-E5D8-4D57-9D0E-3152126C751D}" ShortID="363337629">
-											<PropertyList>
-												<Property Name="ActionType" Type="int16" Value="1"/>
-											</PropertyList>
-											<ReferenceList>
-												<Reference Name="Target">
-													<ObjectRef Name="GirlSecondScream" ID="{B2125A27-B76D-418B-A776-151DF709A1AC}" WorkUnitID="{670B9AC0-15C4-4823-AF0D-CDDF68AFC02C}"/>
-												</Reference>
-											</ReferenceList>
-										</Action>
 									</ChildrenList>
 								</Event>
 								<Event Name="env_start_falling_boyElbowUp" ID="{6370ED62-DAEE-459A-B2DB-4075FB7F9CFC}"/>
@@ -2203,7 +2193,20 @@ COPYRIGHT MMX BY PLAYDEAD ApS </Comment>
 										</Action>
 									</ChildrenList>
 								</Event>
-								<Event Name="env_start_falling_boySitUpEnd" ID="{F6CF82AC-84FC-4301-8C83-09E89A3F1E20}"/>
+								<Event Name="env_start_falling_boySitUpEnd" ID="{F6CF82AC-84FC-4301-8C83-09E89A3F1E20}">
+									<ChildrenList>
+										<Action Name="" ID="{A0FF52D5-338D-4A4D-B646-3D39A957309C}" ShortID="471913701">
+											<PropertyList>
+												<Property Name="ActionType" Type="int16" Value="1"/>
+											</PropertyList>
+											<ReferenceList>
+												<Reference Name="Target">
+													<ObjectRef Name="GirlSecondScream" ID="{B2125A27-B76D-418B-A776-151DF709A1AC}" WorkUnitID="{670B9AC0-15C4-4823-AF0D-CDDF68AFC02C}"/>
+												</Reference>
+											</ReferenceList>
+										</Action>
+									</ChildrenList>
+								</Event>
 								<Event Name="env_start_falling_boyStandUpStart" ID="{83152B3F-E282-4A6A-BA3C-781C02BA00FF}"/>
 								<Event Name="env_start_falling_boyHandsOnGround" ID="{A7ED189E-7200-4E41-AB72-C57E487573C3}"/>
 								<Event Name="env_start_falling_boyPullSelfUp" ID="{81CC36D5-9B5E-42C9-966B-9953279831D1}"/>
@@ -2447,13 +2450,13 @@ COPYRIGHT MMX BY PLAYDEAD ApS </Comment>
 																</Reference>
 															</ReferenceList>
 														</Action>
-														<Action Name="" ID="{9BA57C06-4862-442D-9C9F-72262C2E104C}" ShortID="1017311964">
+														<Action Name="" ID="{62D0F340-53CE-462B-B7B5-5E34252D1C01}" ShortID="1001228957">
 															<PropertyList>
-																<Property Name="ActionType" Type="int16" Value="23"/>
+																<Property Name="ActionType" Type="int16" Value="22"/>
 															</PropertyList>
 															<ReferenceList>
 																<Reference Name="Target">
-																	<ObjectRef Name="crying" ID="{D8CD746A-B0AA-4322-922B-520DF63BD19F}" WorkUnitID="{D8C2D23D-E0CA-43D7-AAD8-D0E3BA7A36C4}"/>
+																	<ObjectRef Name="crying" ID="{45DAF44E-EB06-43EC-8939-6C7FDE0DAC1B}" WorkUnitID="{52274FCC-FF38-4EDD-81BF-EC82E4A946E4}"/>
 																</Reference>
 															</ReferenceList>
 														</Action>
@@ -7696,13 +7699,13 @@ COPYRIGHT MMX BY PLAYDEAD ApS </Comment>
 																</Reference>
 															</ReferenceList>
 														</Action>
-														<Action Name="" ID="{21885BDD-CE12-4D9F-AB4E-1B45B731DD33}" ShortID="883758951">
+														<Action Name="" ID="{0D6B1FFC-84B9-4E2A-BE6F-4B59C23B5CD9}" ShortID="741170904">
 															<PropertyList>
-																<Property Name="ActionType" Type="int16" Value="23"/>
+																<Property Name="ActionType" Type="int16" Value="22"/>
 															</PropertyList>
 															<ReferenceList>
 																<Reference Name="Target">
-																	<ObjectRef Name="scripted" ID="{76DC0BE6-5B31-4AB1-B53B-888C0B96CA50}" WorkUnitID="{D8C2D23D-E0CA-43D7-AAD8-D0E3BA7A36C4}"/>
+																	<ObjectRef Name="scripted" ID="{38B94287-297F-45F3-8825-7717FDB5B77E}" WorkUnitID="{52274FCC-FF38-4EDD-81BF-EC82E4A946E4}"/>
 																</Reference>
 															</ReferenceList>
 														</Action>
@@ -7906,13 +7909,13 @@ COPYRIGHT MMX BY PLAYDEAD ApS </Comment>
 																</Reference>
 															</ReferenceList>
 														</Action>
-														<Action Name="" ID="{8BB23E77-CB1D-477B-B58B-26FC72032B7E}" ShortID="990658164">
+														<Action Name="" ID="{32C8383B-7384-4359-9AF7-9A6D60419A06}" ShortID="325713552">
 															<PropertyList>
-																<Property Name="ActionType" Type="int16" Value="23"/>
+																<Property Name="ActionType" Type="int16" Value="22"/>
 															</PropertyList>
 															<ReferenceList>
 																<Reference Name="Target">
-																	<ObjectRef Name="screaming" ID="{DBA49069-7661-46CC-ACAE-D3F133B1E38C}" WorkUnitID="{D8C2D23D-E0CA-43D7-AAD8-D0E3BA7A36C4}"/>
+																	<ObjectRef Name="screaming" ID="{61038A2C-143A-4084-8B63-27AA03ED8FF4}" WorkUnitID="{52274FCC-FF38-4EDD-81BF-EC82E4A946E4}"/>
 																</Reference>
 															</ReferenceList>
 														</Action>

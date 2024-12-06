@@ -406,6 +406,18 @@ COPYRIGHT MMX BY PLAYDEAD ApS </Comment>
 					</ChildrenList>
 				</Folder>
 				<Folder Name="Migrated Arguments" ID="{73CE4F53-AE36-45D8-AED3-A21D27E08FA1}" ShortID="775020163"/>
+				<Folder Name="keno" ID="{956024A7-2456-4677-A368-0BC94F3CFE5E}" ShortID="606783160">
+					<ChildrenList>
+						<StateGroup Name="girl_screams" ID="{67A7C7A5-451E-46F4-AE35-EDECE9A645B5}">
+							<ChildrenList>
+								<State Name="None" ID="{79F0B5DF-441A-4905-8B0D-22BA34DBB72F}"/>
+								<State Name="scripted" ID="{38B94287-297F-45F3-8825-7717FDB5B77E}"/>
+								<State Name="screaming" ID="{61038A2C-143A-4084-8B63-27AA03ED8FF4}"/>
+								<State Name="crying" ID="{45DAF44E-EB06-43EC-8939-6C7FDE0DAC1B}"/>
+							</ChildrenList>
+						</StateGroup>
+					</ChildrenList>
+				</Folder>
 			</ChildrenList>
 		</WorkUnit>
 	</States>

@@ -20,6 +20,7 @@ COPYRIGHT MMX BY PLAYDEAD ApS </Comment>
 						<ObjectRef Name="boys" ID="{BA3F8973-F516-4862-8A41-6CD32A7E71B0}" WorkUnitID="{670B9AC0-15C4-4823-AF0D-CDDF68AFC02C}" Origin="Manual" Filter="7"/>
 						<ObjectRef Name="underwater" ID="{980CB021-2146-4920-A16D-FD9061CCCFD0}" WorkUnitID="{670B9AC0-15C4-4823-AF0D-CDDF68AFC02C}" Origin="Manual" Filter="7"/>
 						<ObjectRef Name="objects" ID="{84D0DE3A-A73F-4936-AF3A-27FBBC0120D8}" WorkUnitID="{10E360F3-9AA2-4CA1-8F97-47C3FE68C98A}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="keno" ID="{A928787E-7288-49B2-ADDA-84B069F2F08F}" WorkUnitID="{670B9AC0-15C4-4823-AF0D-CDDF68AFC02C}" Origin="Manual" Filter="7"/>
 						<ObjectRef Name="hacks" ID="{C163CFE3-8918-4BEC-B170-82CB9073FFE1}" WorkUnitID="{10E360F3-9AA2-4CA1-8F97-47C3FE68C98A}" Origin="Manual" Filter="7"/>
 						<ObjectRef Name="physics" ID="{1AC260A8-E835-4C96-B747-460CD492BB4B}" WorkUnitID="{670B9AC0-15C4-4823-AF0D-CDDF68AFC02C}" Origin="Manual" Filter="7"/>
 						<ObjectRef Name="menu" ID="{93F87EE8-3AAB-4CB6-A114-8310BB9A25BD}" WorkUnitID="{10E360F3-9AA2-4CA1-8F97-47C3FE68C98A}" Origin="Manual" Filter="7"/>
