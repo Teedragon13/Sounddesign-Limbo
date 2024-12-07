@@ -2146,7 +2146,7 @@ COPYRIGHT MMX BY PLAYDEAD ApS </Comment>
 											</PropertyList>
 											<ReferenceList>
 												<Reference Name="Target">
-													<ObjectRef Name="scripted" ID="{38B94287-297F-45F3-8825-7717FDB5B77E}" WorkUnitID="{52274FCC-FF38-4EDD-81BF-EC82E4A946E4}"/>
+													<ObjectRef Name="waking_up" ID="{38B94287-297F-45F3-8825-7717FDB5B77E}" WorkUnitID="{52274FCC-FF38-4EDD-81BF-EC82E4A946E4}"/>
 												</Reference>
 											</ReferenceList>
 										</Action>
@@ -2456,7 +2456,7 @@ COPYRIGHT MMX BY PLAYDEAD ApS </Comment>
 															</PropertyList>
 															<ReferenceList>
 																<Reference Name="Target">
-																	<ObjectRef Name="crying" ID="{45DAF44E-EB06-43EC-8939-6C7FDE0DAC1B}" WorkUnitID="{52274FCC-FF38-4EDD-81BF-EC82E4A946E4}"/>
+																	<ObjectRef Name="girl_crying" ID="{45DAF44E-EB06-43EC-8939-6C7FDE0DAC1B}" WorkUnitID="{52274FCC-FF38-4EDD-81BF-EC82E4A946E4}"/>
 																</Reference>
 															</ReferenceList>
 														</Action>
@@ -2497,6 +2497,16 @@ COPYRIGHT MMX BY PLAYDEAD ApS </Comment>
 																</Reference>
 															</ReferenceList>
 														</Action>
+														<Action Name="" ID="{DC017275-91AF-4784-B838-A97F95BD2AA5}" ShortID="153892479">
+															<PropertyList>
+																<Property Name="ActionType" Type="int16" Value="22"/>
+															</PropertyList>
+															<ReferenceList>
+																<Reference Name="Target">
+																	<ObjectRef Name="death" ID="{CDC939D0-95B3-4C7B-8299-29B13F1A6875}" WorkUnitID="{52274FCC-FF38-4EDD-81BF-EC82E4A946E4}"/>
+																</Reference>
+															</ReferenceList>
+														</Action>
 													</ChildrenList>
 												</Event>
 												<Event Name="amb_sws_start_falling_enterwood" ID="{6F48C95A-2D8E-4A58-B657-11BA37BC8575}">
@@ -2531,6 +2541,16 @@ COPYRIGHT MMX BY PLAYDEAD ApS </Comment>
 															<ReferenceList>
 																<Reference Name="Target" CompanyID="4095" PluginID="65535" PluginType="15">
 																	<ObjectRef Name="default0dB" ID="{19F5BE0A-9055-4BA9-A751-119AAF682116}" WorkUnitID="{52274FCC-FF38-4EDD-81BF-EC82E4A946E4}"/>
+																</Reference>
+															</ReferenceList>
+														</Action>
+														<Action Name="" ID="{C207312F-7DE7-4A12-BC42-ECE5CA920A18}" ShortID="263858138">
+															<PropertyList>
+																<Property Name="ActionType" Type="int16" Value="22"/>
+															</PropertyList>
+															<ReferenceList>
+																<Reference Name="Target">
+																	<ObjectRef Name="limbo" ID="{EA0D53B7-FC8A-407F-BF22-0073A2DBE87F}" WorkUnitID="{52274FCC-FF38-4EDD-81BF-EC82E4A946E4}"/>
 																</Reference>
 															</ReferenceList>
 														</Action>
@@ -7699,13 +7719,13 @@ COPYRIGHT MMX BY PLAYDEAD ApS </Comment>
 																</Reference>
 															</ReferenceList>
 														</Action>
-														<Action Name="" ID="{0D6B1FFC-84B9-4E2A-BE6F-4B59C23B5CD9}" ShortID="741170904">
+														<Action Name="" ID="{859C6271-8C1F-48DB-88BB-1B5823EEA3B3}" ShortID="789924254">
 															<PropertyList>
 																<Property Name="ActionType" Type="int16" Value="22"/>
 															</PropertyList>
 															<ReferenceList>
 																<Reference Name="Target">
-																	<ObjectRef Name="scripted" ID="{38B94287-297F-45F3-8825-7717FDB5B77E}" WorkUnitID="{52274FCC-FF38-4EDD-81BF-EC82E4A946E4}"/>
+																	<ObjectRef Name="breathing" ID="{1F6A5B5C-1574-4FDF-9286-CAB19A5AF165}" WorkUnitID="{52274FCC-FF38-4EDD-81BF-EC82E4A946E4}"/>
 																</Reference>
 															</ReferenceList>
 														</Action>
@@ -7729,7 +7749,7 @@ COPYRIGHT MMX BY PLAYDEAD ApS </Comment>
 															</PropertyList>
 															<ReferenceList>
 																<Reference Name="Target">
-																	<ObjectRef Name="screaming" ID="{61038A2C-143A-4084-8B63-27AA03ED8FF4}" WorkUnitID="{52274FCC-FF38-4EDD-81BF-EC82E4A946E4}"/>
+																	<ObjectRef Name="girl_screaming" ID="{61038A2C-143A-4084-8B63-27AA03ED8FF4}" WorkUnitID="{52274FCC-FF38-4EDD-81BF-EC82E4A946E4}"/>
 																</Reference>
 															</ReferenceList>
 														</Action>

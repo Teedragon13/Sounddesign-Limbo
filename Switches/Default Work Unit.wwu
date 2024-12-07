@@ -1053,17 +1053,6 @@ COPYRIGHT MMX BY PLAYDEAD ApS </Comment>
 						</SwitchGroup>
 					</ChildrenList>
 				</Folder>
-				<Folder Name="keno" ID="{AF243BD7-C95E-43E1-BB88-33673BCC9888}" ShortID="992303531">
-					<ChildrenList>
-						<SwitchGroup Name="girlScreams" ID="{6024F6D6-0C6E-40FE-A42F-998062B07A3F}">
-							<ChildrenList>
-								<Switch Name="screaming" ID="{DBA49069-7661-46CC-ACAE-D3F133B1E38C}"/>
-								<Switch Name="scripted" ID="{76DC0BE6-5B31-4AB1-B53B-888C0B96CA50}"/>
-								<Switch Name="crying" ID="{D8CD746A-B0AA-4322-922B-520DF63BD19F}"/>
-							</ChildrenList>
-						</SwitchGroup>
-					</ChildrenList>
-				</Folder>
 			</ChildrenList>
 		</WorkUnit>
 	</Switches>
