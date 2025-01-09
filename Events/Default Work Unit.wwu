@@ -1762,6 +1762,16 @@ COPYRIGHT MMX BY PLAYDEAD ApS </Comment>
 														</Reference>
 													</ReferenceList>
 												</Action>
+												<Action Name="" ID="{3BA5BF19-A27B-4C56-A74B-AF73E8DEE033}" ShortID="394725112">
+													<PropertyList>
+														<Property Name="ActionType" Type="int16" Value="1"/>
+													</PropertyList>
+													<ReferenceList>
+														<Reference Name="Target">
+															<ObjectRef Name="BigExhale" ID="{B9930615-B24E-4C14-950D-48BB8DA507A4}" WorkUnitID="{670B9AC0-15C4-4823-AF0D-CDDF68AFC02C}"/>
+														</Reference>
+													</ReferenceList>
+												</Action>
 											</ChildrenList>
 										</Event>
 										<Event Name="boy_death_drowning_give_up" ID="{9E313D5A-48FD-4D70-A42D-09B8CD0E673C}"/>
@@ -1777,9 +1787,32 @@ COPYRIGHT MMX BY PLAYDEAD ApS </Comment>
 														</Reference>
 													</ReferenceList>
 												</Action>
+												<Action Name="" ID="{B13B322F-F157-4C65-876B-62C404A1E1FA}" ShortID="525002959">
+													<PropertyList>
+														<Property Name="ActionType" Type="int16" Value="1"/>
+													</PropertyList>
+													<ReferenceList>
+														<Reference Name="Target">
+															<ObjectRef Name="SmallExhale" ID="{BD688073-14B9-4857-8F12-E79FB31CC77C}" WorkUnitID="{670B9AC0-15C4-4823-AF0D-CDDF68AFC02C}"/>
+														</Reference>
+													</ReferenceList>
+												</Action>
 											</ChildrenList>
 										</Event>
-										<Event Name="boy_death_drowning_strokes" ID="{227A9516-CE30-4147-8C67-00F1A161D35D}"/>
+										<Event Name="boy_death_drowning_strokes" ID="{227A9516-CE30-4147-8C67-00F1A161D35D}">
+											<ChildrenList>
+												<Action Name="" ID="{B52832F0-2A46-4BAD-8993-D5F4879E0384}" ShortID="521146603">
+													<PropertyList>
+														<Property Name="ActionType" Type="int16" Value="1"/>
+													</PropertyList>
+													<ReferenceList>
+														<Reference Name="Target">
+															<ObjectRef Name="Strokes" ID="{A5D6F9BF-163C-4571-B3A0-A088C6C914CC}" WorkUnitID="{670B9AC0-15C4-4823-AF0D-CDDF68AFC02C}"/>
+														</Reference>
+													</ReferenceList>
+												</Action>
+											</ChildrenList>
+										</Event>
 									</ChildrenList>
 								</Folder>
 								<Event Name="boy_death_crush" ID="{0D71BF18-F1D9-4B66-9DE6-1C2ECC969F86}">
