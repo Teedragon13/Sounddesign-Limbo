@@ -884,7 +884,7 @@ COPYRIGHT MMX BY PLAYDEAD ApS </Comment>
 					</RTPCValueList>
 					<CurrentStateList ShowAll="true">
 						<CurrentStateRef Name="default0dB" ID="{19F5BE0A-9055-4BA9-A751-119AAF682116}"/>
-						<CurrentStateRef Name="amb_sws_start_falling_eyesopen" ID="{759C7122-8F3C-48F3-BCBC-806E2DD588A3}"/>
+						<CurrentStateRef Name="amb_sws_start_falling_cave" ID="{A20CE8F3-AC03-4B0C-8E50-31980AB0DD2F}"/>
 						<CurrentStateRef Name="None" ID="{5B1A40F7-78DB-42C3-A064-FEFCDF49D5F4}"/>
 						<CurrentStateRef Name="None" ID="{86124F47-6FAE-4F2B-9AE7-812D7B80DE20}"/>
 						<CurrentStateRef Name="aboveWater" ID="{A3C5E87B-F5C2-4602-937A-81067C99114D}"/>
@@ -893,8 +893,8 @@ COPYRIGHT MMX BY PLAYDEAD ApS </Comment>
 						<CurrentStateRef Name="None" ID="{D6248CF1-9AF5-4A47-8B3E-8D265CEABF89}"/>
 						<CurrentStateRef Name="None" ID="{0ECADF30-1888-4DB0-943E-2FE9CF808976}"/>
 						<CurrentStateRef Name="normal" ID="{D8A3BE4B-90AC-4B79-8D64-B4BA3DB0A365}"/>
-						<CurrentStateRef Name="menu" ID="{1C180493-C2D9-4BFE-8121-AAA4BEF2F259}"/>
-						<CurrentStateRef Name="girl_screaming" ID="{61038A2C-143A-4084-8B63-27AA03ED8FF4}"/>
+						<CurrentStateRef Name="inGame" ID="{6989DA60-BD41-47A9-BB5C-8FCAFE1C7367}"/>
+						<CurrentStateRef Name="girl_crying" ID="{45DAF44E-EB06-43EC-8939-6C7FDE0DAC1B}"/>
 						<CurrentStateRef Name="None" ID="{3E2BE73A-F6BA-4728-92FC-648819A67508}"/>
 						<CurrentStateRef Name="stop" ID="{F77EB7B8-111A-4208-82F7-3E81682E1843}"/>
 						<CurrentStateRef Name="None" ID="{9F1F6070-0FD3-432B-8265-6F0EC74DE09E}"/>
@@ -926,7 +926,7 @@ COPYRIGHT MMX BY PLAYDEAD ApS </Comment>
 						<CurrentSwitchRef Name="high" ID="{CCDAC439-6A77-4668-99A5-FD5C7006B935}"/>
 						<CurrentSwitchRef Name="breath_off" ID="{4BA8032D-AA6B-4F01-8905-4A4C6827FE99}"/>
 						<CurrentSwitchRef Name="f" ID="{5C5515D7-8AA1-40BA-95C0-26CAA55F64F3}"/>
-						<CurrentSwitchRef Name="cliff" ID="{F1AF01C0-3160-4D66-9305-590B54A5EF5E}"/>
+						<CurrentSwitchRef Name="branch" ID="{285FF1D1-6667-4376-9988-4C416F0A0861}"/>
 						<CurrentSwitchRef Name="jog_step" ID="{D84E9524-413F-4B4B-BCC6-2AAEE31BD181}"/>
 						<CurrentSwitchRef Name="f" ID="{2FF806AE-C5F6-4451-9DC7-8753B77B1D90}"/>
 						<CurrentSwitchRef Name="f" ID="{914DCEF8-F6BF-49EB-8DC8-5C317DC71846}"/>
