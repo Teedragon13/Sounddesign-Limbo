@@ -894,7 +894,7 @@ COPYRIGHT MMX BY PLAYDEAD ApS </Comment>
 						<CurrentStateRef Name="None" ID="{0ECADF30-1888-4DB0-943E-2FE9CF808976}"/>
 						<CurrentStateRef Name="normal" ID="{D8A3BE4B-90AC-4B79-8D64-B4BA3DB0A365}"/>
 						<CurrentStateRef Name="menu" ID="{1C180493-C2D9-4BFE-8121-AAA4BEF2F259}"/>
-						<CurrentStateRef Name="girl_crying" ID="{45DAF44E-EB06-43EC-8939-6C7FDE0DAC1B}"/>
+						<CurrentStateRef Name="girl_screaming" ID="{61038A2C-143A-4084-8B63-27AA03ED8FF4}"/>
 						<CurrentStateRef Name="None" ID="{3E2BE73A-F6BA-4728-92FC-648819A67508}"/>
 						<CurrentStateRef Name="stop" ID="{F77EB7B8-111A-4208-82F7-3E81682E1843}"/>
 						<CurrentStateRef Name="None" ID="{9F1F6070-0FD3-432B-8265-6F0EC74DE09E}"/>
@@ -926,7 +926,7 @@ COPYRIGHT MMX BY PLAYDEAD ApS </Comment>
 						<CurrentSwitchRef Name="high" ID="{CCDAC439-6A77-4668-99A5-FD5C7006B935}"/>
 						<CurrentSwitchRef Name="breath_off" ID="{4BA8032D-AA6B-4F01-8905-4A4C6827FE99}"/>
 						<CurrentSwitchRef Name="f" ID="{5C5515D7-8AA1-40BA-95C0-26CAA55F64F3}"/>
-						<CurrentSwitchRef Name="branch" ID="{285FF1D1-6667-4376-9988-4C416F0A0861}"/>
+						<CurrentSwitchRef Name="wood" ID="{9B0C23A6-1D32-4767-84C4-A435CE112AF4}"/>
 						<CurrentSwitchRef Name="jog_step" ID="{D84E9524-413F-4B4B-BCC6-2AAEE31BD181}"/>
 						<CurrentSwitchRef Name="f" ID="{2FF806AE-C5F6-4451-9DC7-8753B77B1D90}"/>
 						<CurrentSwitchRef Name="f" ID="{914DCEF8-F6BF-49EB-8DC8-5C317DC71846}"/>

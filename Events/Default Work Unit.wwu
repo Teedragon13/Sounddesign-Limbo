@@ -1271,6 +1271,16 @@ COPYRIGHT MMX BY PLAYDEAD ApS </Comment>
 																</Reference>
 															</ReferenceList>
 														</Action>
+														<Action Name="" ID="{B880E5A0-1408-4D23-B61F-276CE1E411F2}" ShortID="563938361">
+															<PropertyList>
+																<Property Name="ActionType" Type="int16" Value="1"/>
+															</PropertyList>
+															<ReferenceList>
+																<Reference Name="Target">
+																	<ObjectRef Name="jumpland_drywet" ID="{93E5B275-02E5-41D3-903D-FBD1C4EFBBBB}" WorkUnitID="{670B9AC0-15C4-4823-AF0D-CDDF68AFC02C}"/>
+																</Reference>
+															</ReferenceList>
+														</Action>
 													</ChildrenList>
 												</Event>
 												<Event Name="boy_dramatic_land_folded" ID="{FBDC058F-FC74-440B-B26D-C325347D717B}">
@@ -1328,6 +1338,16 @@ COPYRIGHT MMX BY PLAYDEAD ApS </Comment>
 															<ReferenceList>
 																<Reference Name="Target">
 																	<ObjectRef Name="breath" ID="{FCCDDC7A-08B6-4805-957B-D47F010652E1}" WorkUnitID="{670B9AC0-15C4-4823-AF0D-CDDF68AFC02C}"/>
+																</Reference>
+															</ReferenceList>
+														</Action>
+														<Action Name="" ID="{A52B72BB-1585-466F-AFAA-F48BAEFE1938}" ShortID="262811879">
+															<PropertyList>
+																<Property Name="ActionType" Type="int16" Value="1"/>
+															</PropertyList>
+															<ReferenceList>
+																<Reference Name="Target">
+																	<ObjectRef Name="jumpLand" ID="{08DD6976-381B-4D1F-8BF3-1BB253129BDF}" WorkUnitID="{670B9AC0-15C4-4823-AF0D-CDDF68AFC02C}"/>
 																</Reference>
 															</ReferenceList>
 														</Action>
@@ -1410,6 +1430,16 @@ COPYRIGHT MMX BY PLAYDEAD ApS </Comment>
 															<ReferenceList>
 																<Reference Name="Target">
 																	<ObjectRef Name="exhale" ID="{11B2682E-7757-4431-AB7A-12B7BB941EF6}" WorkUnitID="{670B9AC0-15C4-4823-AF0D-CDDF68AFC02C}"/>
+																</Reference>
+															</ReferenceList>
+														</Action>
+														<Action Name="" ID="{A09EF565-122B-4CDE-B91F-0456BC422DC8}" ShortID="129323348">
+															<PropertyList>
+																<Property Name="ActionType" Type="int16" Value="1"/>
+															</PropertyList>
+															<ReferenceList>
+																<Reference Name="Target">
+																	<ObjectRef Name="jumpLand" ID="{08DD6976-381B-4D1F-8BF3-1BB253129BDF}" WorkUnitID="{670B9AC0-15C4-4823-AF0D-CDDF68AFC02C}"/>
 																</Reference>
 															</ReferenceList>
 														</Action>
