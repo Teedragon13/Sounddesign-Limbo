@@ -1224,13 +1224,13 @@ COPYRIGHT MMX BY PLAYDEAD ApS </Comment>
 														</Reference>
 													</ReferenceList>
 												</Action>
-												<Action Name="" ID="{6DC7B5A9-5AB1-458A-8AA7-2A1B279508AD}" ShortID="110816927">
+												<Action Name="" ID="{AC1BA323-4FEC-491C-86CF-2D5146F57DA1}" ShortID="276704147">
 													<PropertyList>
 														<Property Name="ActionType" Type="int16" Value="1"/>
 													</PropertyList>
 													<ReferenceList>
 														<Reference Name="Target">
-															<ObjectRef Name="inhale" ID="{D0091303-1AEF-42D2-8C61-3D89C7C646BE}" WorkUnitID="{670B9AC0-15C4-4823-AF0D-CDDF68AFC02C}"/>
+															<ObjectRef Name="letGoInhale" ID="{9A175A4B-986F-4B94-9532-C12591051048}" WorkUnitID="{670B9AC0-15C4-4823-AF0D-CDDF68AFC02C}"/>
 														</Reference>
 													</ReferenceList>
 												</Action>
@@ -2129,6 +2129,16 @@ COPYRIGHT MMX BY PLAYDEAD ApS </Comment>
 							<ChildrenList>
 								<Event Name="boy_jumpstate_start" ID="{75661E36-95AA-4A9A-901D-91EE76E459FF}">
 									<ChildrenList>
+										<Action Name="" ID="{07DA5464-B16F-494B-82F1-D103FF458912}" ShortID="476896222">
+											<PropertyList>
+												<Property Name="ActionType" Type="int16" Value="23"/>
+											</PropertyList>
+											<ReferenceList>
+												<Reference Name="Target">
+													<ObjectRef Name="true" ID="{D2D16DA7-82E5-410A-9915-9012094251BC}" WorkUnitID="{D8C2D23D-E0CA-43D7-AAD8-D0E3BA7A36C4}"/>
+												</Reference>
+											</ReferenceList>
+										</Action>
 										<Action Name="" ID="{4415AF63-6372-4975-977A-F95413936428}" ShortID="641020171">
 											<PropertyList>
 												<Property Name="ActionType" Type="int16" Value="1"/>
@@ -2148,6 +2158,16 @@ COPYRIGHT MMX BY PLAYDEAD ApS </Comment>
 								</Event>
 								<Event Name="boy_jumpstate_stop" ID="{358D3864-D1F3-4C51-B609-424E8FC05787}">
 									<ChildrenList>
+										<Action Name="" ID="{5168C3B8-7E61-4261-8DFA-D07B7D59ECD6}" ShortID="325345288">
+											<PropertyList>
+												<Property Name="ActionType" Type="int16" Value="23"/>
+											</PropertyList>
+											<ReferenceList>
+												<Reference Name="Target">
+													<ObjectRef Name="false" ID="{EEB8A4CA-80F9-4396-8DE6-FB67D0383BA2}" WorkUnitID="{D8C2D23D-E0CA-43D7-AAD8-D0E3BA7A36C4}"/>
+												</Reference>
+											</ReferenceList>
+										</Action>
 										<Action Name="" ID="{DF353C1D-5D8B-47CE-8621-4B1127BBF43C}" ShortID="596560689">
 											<PropertyList>
 												<Property Name="ActionType" Type="int16" Value="2"/>

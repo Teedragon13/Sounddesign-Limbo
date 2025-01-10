@@ -1053,6 +1053,16 @@ COPYRIGHT MMX BY PLAYDEAD ApS </Comment>
 						</SwitchGroup>
 					</ChildrenList>
 				</Folder>
+				<Folder Name="keno" ID="{F8764DB5-52BA-4373-9488-91ECE07D14F4}" ShortID="56887338">
+					<ChildrenList>
+						<SwitchGroup Name="boyJumping" ID="{F652725D-231D-4646-88E1-C74849712514}">
+							<ChildrenList>
+								<Switch Name="true" ID="{D2D16DA7-82E5-410A-9915-9012094251BC}"/>
+								<Switch Name="false" ID="{EEB8A4CA-80F9-4396-8DE6-FB67D0383BA2}"/>
+							</ChildrenList>
+						</SwitchGroup>
+					</ChildrenList>
+				</Folder>
 			</ChildrenList>
 		</WorkUnit>
 	</Switches>
