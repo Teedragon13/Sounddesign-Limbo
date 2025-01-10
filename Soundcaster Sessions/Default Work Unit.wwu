@@ -884,7 +884,7 @@ COPYRIGHT MMX BY PLAYDEAD ApS </Comment>
 					</RTPCValueList>
 					<CurrentStateList ShowAll="true">
 						<CurrentStateRef Name="default0dB" ID="{19F5BE0A-9055-4BA9-A751-119AAF682116}"/>
-						<CurrentStateRef Name="amb_sws_start_falling_eyesopen" ID="{759C7122-8F3C-48F3-BCBC-806E2DD588A3}"/>
+						<CurrentStateRef Name="amb_sws_start_treeclimb_wood" ID="{8C3A72A6-9DF8-4BEA-93D4-082D5AD572D0}"/>
 						<CurrentStateRef Name="None" ID="{5B1A40F7-78DB-42C3-A064-FEFCDF49D5F4}"/>
 						<CurrentStateRef Name="None" ID="{86124F47-6FAE-4F2B-9AE7-812D7B80DE20}"/>
 						<CurrentStateRef Name="aboveWater" ID="{A3C5E87B-F5C2-4602-937A-81067C99114D}"/>
@@ -894,7 +894,7 @@ COPYRIGHT MMX BY PLAYDEAD ApS </Comment>
 						<CurrentStateRef Name="None" ID="{0ECADF30-1888-4DB0-943E-2FE9CF808976}"/>
 						<CurrentStateRef Name="normal" ID="{D8A3BE4B-90AC-4B79-8D64-B4BA3DB0A365}"/>
 						<CurrentStateRef Name="inGame" ID="{6989DA60-BD41-47A9-BB5C-8FCAFE1C7367}"/>
-						<CurrentStateRef Name="girl_screaming" ID="{61038A2C-143A-4084-8B63-27AA03ED8FF4}"/>
+						<CurrentStateRef Name="limbo" ID="{EA0D53B7-FC8A-407F-BF22-0073A2DBE87F}"/>
 						<CurrentStateRef Name="None" ID="{3E2BE73A-F6BA-4728-92FC-648819A67508}"/>
 						<CurrentStateRef Name="stop" ID="{F77EB7B8-111A-4208-82F7-3E81682E1843}"/>
 						<CurrentStateRef Name="None" ID="{9F1F6070-0FD3-432B-8265-6F0EC74DE09E}"/>

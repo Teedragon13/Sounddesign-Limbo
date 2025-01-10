@@ -10319,10 +10319,25 @@ COPYRIGHT MMX BY PLAYDEAD ApS </Comment>
 												<Action Name="" ID="{06942548-9517-4BDE-887F-E370345B1544}" ShortID="909350088">
 													<PropertyList>
 														<Property Name="ActionType" Type="int16" Value="1"/>
+														<Property Name="Inclusion" Type="bool">
+															<ValueList>
+																<Value>False</Value>
+															</ValueList>
+														</Property>
 													</PropertyList>
 													<ReferenceList>
 														<Reference Name="Target" CompanyID="4095" PluginID="65535" PluginType="15">
 															<ObjectRef Name="treefall2" ID="{EEABC5DB-FD22-419E-ABC8-22612CE5F383}" WorkUnitID="{670B9AC0-15C4-4823-AF0D-CDDF68AFC02C}"/>
+														</Reference>
+													</ReferenceList>
+												</Action>
+												<Action Name="" ID="{22E4A731-4BC4-4883-A011-73AE360BABE3}" ShortID="1056308992">
+													<PropertyList>
+														<Property Name="ActionType" Type="int16" Value="1"/>
+													</PropertyList>
+													<ReferenceList>
+														<Reference Name="Target">
+															<ObjectRef Name="treefall" ID="{9F8EFA1E-43BD-4A1B-9F4F-47544B560826}" WorkUnitID="{670B9AC0-15C4-4823-AF0D-CDDF68AFC02C}"/>
 														</Reference>
 													</ReferenceList>
 												</Action>
@@ -23113,10 +23128,25 @@ COPYRIGHT MMX BY PLAYDEAD ApS </Comment>
 														<Action Name="" ID="{B89E74EF-21DF-4444-9611-FE895E89A70A}" ShortID="197495614">
 															<PropertyList>
 																<Property Name="ActionType" Type="int16" Value="1"/>
+																<Property Name="Inclusion" Type="bool">
+																	<ValueList>
+																		<Value>False</Value>
+																	</ValueList>
+																</Property>
 															</PropertyList>
 															<ReferenceList>
 																<Reference Name="Target" CompanyID="4095" PluginID="65535" PluginType="15">
 																	<ObjectRef Name="phy_start_treeclimb_logImpact" ID="{D7EB4821-793C-4104-BDB8-03A3E8C46CAA}" WorkUnitID="{670B9AC0-15C4-4823-AF0D-CDDF68AFC02C}"/>
+																</Reference>
+															</ReferenceList>
+														</Action>
+														<Action Name="" ID="{994FA838-487E-438E-98D8-F72699378193}" ShortID="690963203">
+															<PropertyList>
+																<Property Name="ActionType" Type="int16" Value="1"/>
+															</PropertyList>
+															<ReferenceList>
+																<Reference Name="Target">
+																	<ObjectRef Name="logWaterImpact" ID="{5B370ED1-BAC9-4571-9BBD-81FE4550666A}" WorkUnitID="{670B9AC0-15C4-4823-AF0D-CDDF68AFC02C}"/>
 																</Reference>
 															</ReferenceList>
 														</Action>
