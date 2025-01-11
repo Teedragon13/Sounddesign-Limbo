@@ -2377,6 +2377,16 @@ COPYRIGHT MMX BY PLAYDEAD ApS </Comment>
 												</Reference>
 											</ReferenceList>
 										</Action>
+										<Action Name="" ID="{B2A97746-7BEF-4446-A87F-634A8ED51FC3}" ShortID="299318760">
+											<PropertyList>
+												<Property Name="ActionType" Type="int16" Value="1"/>
+											</PropertyList>
+											<ReferenceList>
+												<Reference Name="Target">
+													<ObjectRef Name="Heartbeat" ID="{51EECFAC-0FF3-47E3-8DD6-29A36D49EB1C}" WorkUnitID="{670B9AC0-15C4-4823-AF0D-CDDF68AFC02C}"/>
+												</Reference>
+											</ReferenceList>
+										</Action>
 										<Action Name="" ID="{02032D1F-638E-4706-AEAA-2A848B07236D}" ShortID="870869587">
 											<PropertyList>
 												<Property Name="ActionType" Type="int16" Value="22"/>
@@ -17291,6 +17301,11 @@ COPYRIGHT MMX BY PLAYDEAD ApS </Comment>
 										<Action Name="" ID="{B6E68F1F-D75F-4F57-9712-0EDE788AC526}" ShortID="934801538">
 											<PropertyList>
 												<Property Name="ActionType" Type="int16" Value="1"/>
+												<Property Name="Inclusion" Type="bool">
+													<ValueList>
+														<Value>False</Value>
+													</ValueList>
+												</Property>
 											</PropertyList>
 											<ReferenceList>
 												<Reference Name="Target" CompanyID="4095" PluginID="65535" PluginType="15">
@@ -17298,17 +17313,27 @@ COPYRIGHT MMX BY PLAYDEAD ApS </Comment>
 												</Reference>
 											</ReferenceList>
 										</Action>
-									</ChildrenList>
-								</Event>
-								<Event Name="obj_beartrap_retrieve" ID="{8D7B0658-E987-4334-9112-773115FDF1BF}">
-									<ChildrenList>
-										<Action Name="" ID="{1C79ACFB-49D3-472D-90D6-C70C81CD4E55}" ShortID="237356015">
+										<Action Name="" ID="{6B8E6B8E-28B7-484C-90E4-39AFA9C3DA6F}" ShortID="507439385">
 											<PropertyList>
 												<Property Name="ActionType" Type="int16" Value="1"/>
 											</PropertyList>
 											<ReferenceList>
-												<Reference Name="Target" CompanyID="4095" PluginID="65535" PluginType="15">
-													<ObjectRef Name="obj_beartrap_retrieve" ID="{1084336D-4DEF-42B4-96B6-5A46C3CA3F7A}" WorkUnitID="{670B9AC0-15C4-4823-AF0D-CDDF68AFC02C}"/>
+												<Reference Name="Target">
+													<ObjectRef Name="obj_beartrap_collapse_other" ID="{74CF1EFB-B77B-46E1-BCDE-C082F186A2CC}" WorkUnitID="{670B9AC0-15C4-4823-AF0D-CDDF68AFC02C}"/>
+												</Reference>
+											</ReferenceList>
+										</Action>
+									</ChildrenList>
+								</Event>
+								<Event Name="obj_beartrap_retrieve" ID="{8D7B0658-E987-4334-9112-773115FDF1BF}">
+									<ChildrenList>
+										<Action Name="" ID="{24ADC796-01BD-4136-9457-6BE6D85CC692}" ShortID="333961806">
+											<PropertyList>
+												<Property Name="ActionType" Type="int16" Value="1"/>
+											</PropertyList>
+											<ReferenceList>
+												<Reference Name="Target">
+													<ObjectRef Name="obj_beartrap_retrieve" ID="{72377076-DC69-4CB4-8B16-6489A0F1ED46}" WorkUnitID="{670B9AC0-15C4-4823-AF0D-CDDF68AFC02C}"/>
 												</Reference>
 											</ReferenceList>
 										</Action>

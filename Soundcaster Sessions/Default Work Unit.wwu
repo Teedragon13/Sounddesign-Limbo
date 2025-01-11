@@ -827,7 +827,7 @@ COPYRIGHT MMX BY PLAYDEAD ApS </Comment>
 						</RTPCValue>
 						<RTPCValue>
 							<GameParameterRef Name="RTPC_amb_evt" ID="{3C9F050A-25F3-4A01-BD54-B4A0F63DB3F9}"/>
-							<Value>0</Value>
+							<Value>100</Value>
 						</RTPCValue>
 						<RTPCValue>
 							<GameParameterRef Name="RTPC_XY_amb_evt_5" ID="{9E06CC64-4B10-4AED-928C-35F5A730FD11}"/>
@@ -883,8 +883,8 @@ COPYRIGHT MMX BY PLAYDEAD ApS </Comment>
 						</RTPCValue>
 					</RTPCValueList>
 					<CurrentStateList ShowAll="true">
-						<CurrentStateRef Name="default0dB" ID="{19F5BE0A-9055-4BA9-A751-119AAF682116}"/>
-						<CurrentStateRef Name="amb_sws_start_treeclimb_wood" ID="{8C3A72A6-9DF8-4BEA-93D4-082D5AD572D0}"/>
+						<CurrentStateRef Name="minus3dB" ID="{C2446B71-8658-4659-9A6F-289E4896C58B}"/>
+						<CurrentStateRef Name="amb_sws_start_falling_enterboat" ID="{6AEA1135-BD7C-42FE-BE86-4C6CF5497B34}"/>
 						<CurrentStateRef Name="None" ID="{5B1A40F7-78DB-42C3-A064-FEFCDF49D5F4}"/>
 						<CurrentStateRef Name="None" ID="{86124F47-6FAE-4F2B-9AE7-812D7B80DE20}"/>
 						<CurrentStateRef Name="aboveWater" ID="{A3C5E87B-F5C2-4602-937A-81067C99114D}"/>
@@ -894,16 +894,16 @@ COPYRIGHT MMX BY PLAYDEAD ApS </Comment>
 						<CurrentStateRef Name="None" ID="{0ECADF30-1888-4DB0-943E-2FE9CF808976}"/>
 						<CurrentStateRef Name="normal" ID="{D8A3BE4B-90AC-4B79-8D64-B4BA3DB0A365}"/>
 						<CurrentStateRef Name="menu" ID="{1C180493-C2D9-4BFE-8121-AAA4BEF2F259}"/>
-						<CurrentStateRef Name="None" ID="{79F0B5DF-441A-4905-8B0D-22BA34DBB72F}"/>
+						<CurrentStateRef Name="death" ID="{CDC939D0-95B3-4C7B-8299-29B13F1A6875}"/>
 						<CurrentStateRef Name="None" ID="{3E2BE73A-F6BA-4728-92FC-648819A67508}"/>
 						<CurrentStateRef Name="stop" ID="{F77EB7B8-111A-4208-82F7-3E81682E1843}"/>
-						<CurrentStateRef Name="amb_sws_spider_sitting_unfold" ID="{BF315A2E-D45C-46A7-8EF9-6744334D8FB9}"/>
+						<CurrentStateRef Name="None" ID="{9F1F6070-0FD3-432B-8265-6F0EC74DE09E}"/>
 						<CurrentStateRef Name="off" ID="{F9D1C0FC-82AA-40DF-81FD-D91BF67B647A}"/>
 						<CurrentStateRef Name="None" ID="{BFD3F5E8-BBF5-4657-9B66-D1357552AB55}"/>
 						<CurrentStateRef Name="None" ID="{2F40968D-C830-4B07-949B-907A856182F3}"/>
 						<CurrentStateRef Name="None" ID="{961DA136-C523-42CA-AB1D-33E33E158299}"/>
 						<CurrentStateRef Name="None" ID="{4698862D-C18C-4E7B-A0D1-F76DA6A417EE}"/>
-						<CurrentStateRef Name="amb_sws_spider" ID="{55D4B85C-6A3A-41E2-8026-F741FC3E3DF5}"/>
+						<CurrentStateRef Name="amb_sws_start" ID="{334AC6BC-F805-4C36-B28C-05039F66B047}"/>
 						<CurrentStateRef Name="None" ID="{EDF4DC27-8FE4-4D17-A11C-F6A02F4F6CBE}"/>
 						<CurrentStateRef Name="off" ID="{27D4ECDD-0E28-4910-B6B3-72E4462F9855}"/>
 					</CurrentStateList>
