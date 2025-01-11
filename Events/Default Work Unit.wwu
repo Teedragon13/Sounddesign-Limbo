@@ -23698,13 +23698,13 @@ COPYRIGHT MMX BY PLAYDEAD ApS </Comment>
 										</Event>
 										<Event Name="phy_beartrap_slideStart" ID="{083AD66F-703D-42B5-A21B-621401807E96}">
 											<ChildrenList>
-												<Action Name="" ID="{83DA7D02-108A-4C51-8749-DFD67689CD57}" ShortID="492651417">
+												<Action Name="" ID="{6CB811D8-C5A5-4240-9FA1-ED13870FCB9A}" ShortID="747365462">
 													<PropertyList>
 														<Property Name="ActionType" Type="int16" Value="1"/>
 													</PropertyList>
 													<ReferenceList>
-														<Reference Name="Target" CompanyID="4095" PluginID="65535" PluginType="15">
-															<ObjectRef Name="beartrapSlide" ID="{68280C8F-D1E9-4DD5-9762-98D612220F0B}" WorkUnitID="{670B9AC0-15C4-4823-AF0D-CDDF68AFC02C}"/>
+														<Reference Name="Target">
+															<ObjectRef Name="beartrapSlide" ID="{AC829157-DC6F-4F6C-B983-8F9CF88F45B4}" WorkUnitID="{670B9AC0-15C4-4823-AF0D-CDDF68AFC02C}"/>
 														</Reference>
 													</ReferenceList>
 												</Action>
@@ -23712,13 +23712,13 @@ COPYRIGHT MMX BY PLAYDEAD ApS </Comment>
 										</Event>
 										<Event Name="phy_beartrap_slideStop" ID="{5E701CA5-FF95-4780-9DB5-D5631CA344DF}">
 											<ChildrenList>
-												<Action Name="" ID="{D801D2A2-9AAB-4D78-9359-937008938C13}" ShortID="505112165">
+												<Action Name="" ID="{B7F66FF6-D7FE-4D47-831D-EF078ACB5EF1}" ShortID="875188990">
 													<PropertyList>
 														<Property Name="ActionType" Type="int16" Value="2"/>
 													</PropertyList>
 													<ReferenceList>
-														<Reference Name="Target" CompanyID="4095" PluginID="65535" PluginType="15">
-															<ObjectRef Name="beartrapSlide" ID="{68280C8F-D1E9-4DD5-9762-98D612220F0B}" WorkUnitID="{670B9AC0-15C4-4823-AF0D-CDDF68AFC02C}"/>
+														<Reference Name="Target">
+															<ObjectRef Name="beartrapSlide" ID="{AC829157-DC6F-4F6C-B983-8F9CF88F45B4}" WorkUnitID="{670B9AC0-15C4-4823-AF0D-CDDF68AFC02C}"/>
 														</Reference>
 													</ReferenceList>
 												</Action>
