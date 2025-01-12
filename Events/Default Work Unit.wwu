@@ -1732,10 +1732,25 @@ COPYRIGHT MMX BY PLAYDEAD ApS </Comment>
 										<Action Name="" ID="{C3C5EA13-6F09-4633-9991-BFF1D11929C0}" ShortID="298530303">
 											<PropertyList>
 												<Property Name="ActionType" Type="int16" Value="1"/>
+												<Property Name="Inclusion" Type="bool">
+													<ValueList>
+														<Value>False</Value>
+													</ValueList>
+												</Property>
 											</PropertyList>
 											<ReferenceList>
 												<Reference Name="Target" CompanyID="4095" PluginID="65535" PluginType="15">
 													<ObjectRef Name="boy_dieFromFallImpact" ID="{9950D1FE-7D4C-4E3F-A746-53FBDB5DE0E9}" WorkUnitID="{670B9AC0-15C4-4823-AF0D-CDDF68AFC02C}"/>
+												</Reference>
+											</ReferenceList>
+										</Action>
+										<Action Name="" ID="{18CFD459-9B0A-4A75-85EA-FCE903B995EB}" ShortID="902477980">
+											<PropertyList>
+												<Property Name="ActionType" Type="int16" Value="1"/>
+											</PropertyList>
+											<ReferenceList>
+												<Reference Name="Target">
+													<ObjectRef Name="fallImpact" ID="{3D4CBF75-92DF-4BCB-B1E5-4D754E2C1B24}" WorkUnitID="{670B9AC0-15C4-4823-AF0D-CDDF68AFC02C}"/>
 												</Reference>
 											</ReferenceList>
 										</Action>
@@ -1804,10 +1819,25 @@ COPYRIGHT MMX BY PLAYDEAD ApS </Comment>
 										<Action Name="" ID="{4DE3533A-39D8-42BC-B7CA-0D444B50793F}" ShortID="402286547">
 											<PropertyList>
 												<Property Name="ActionType" Type="int16" Value="1"/>
+												<Property Name="Inclusion" Type="bool">
+													<ValueList>
+														<Value>False</Value>
+													</ValueList>
+												</Property>
 											</PropertyList>
 											<ReferenceList>
 												<Reference Name="Target" CompanyID="4095" PluginID="65535" PluginType="15">
 													<ObjectRef Name="boy_death_spiked" ID="{9636E3B6-BE39-4D3D-BCBF-29C679E764A8}" WorkUnitID="{670B9AC0-15C4-4823-AF0D-CDDF68AFC02C}"/>
+												</Reference>
+											</ReferenceList>
+										</Action>
+										<Action Name="" ID="{FC66CF91-9335-49B6-81EA-2EA2DC80F356}" ShortID="250233363">
+											<PropertyList>
+												<Property Name="ActionType" Type="int16" Value="1"/>
+											</PropertyList>
+											<ReferenceList>
+												<Reference Name="Target">
+													<ObjectRef Name="spiked" ID="{A06281B5-E91C-445F-BAB0-1D357AD4FDA3}" WorkUnitID="{670B9AC0-15C4-4823-AF0D-CDDF68AFC02C}"/>
 												</Reference>
 											</ReferenceList>
 										</Action>
@@ -1902,10 +1932,25 @@ COPYRIGHT MMX BY PLAYDEAD ApS </Comment>
 										<Action Name="" ID="{DB5FADC5-D980-4B0C-A640-FCFA687646B3}" ShortID="429008757">
 											<PropertyList>
 												<Property Name="ActionType" Type="int16" Value="1"/>
+												<Property Name="Inclusion" Type="bool">
+													<ValueList>
+														<Value>False</Value>
+													</ValueList>
+												</Property>
 											</PropertyList>
 											<ReferenceList>
 												<Reference Name="Target" CompanyID="4095" PluginID="65535" PluginType="15">
 													<ObjectRef Name="boy_death_crush" ID="{04393808-F932-41BF-855E-2B350A85A755}" WorkUnitID="{670B9AC0-15C4-4823-AF0D-CDDF68AFC02C}"/>
+												</Reference>
+											</ReferenceList>
+										</Action>
+										<Action Name="" ID="{4D4EA8D2-CC7D-4487-99DA-663404605B7A}" ShortID="635438355">
+											<PropertyList>
+												<Property Name="ActionType" Type="int16" Value="1"/>
+											</PropertyList>
+											<ReferenceList>
+												<Reference Name="Target">
+													<ObjectRef Name="crushed" ID="{B1E616AD-68BC-4C76-891D-19CCAD932BA6}" WorkUnitID="{670B9AC0-15C4-4823-AF0D-CDDF68AFC02C}"/>
 												</Reference>
 											</ReferenceList>
 										</Action>

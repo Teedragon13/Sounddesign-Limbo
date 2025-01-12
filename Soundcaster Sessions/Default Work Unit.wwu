@@ -893,7 +893,7 @@ COPYRIGHT MMX BY PLAYDEAD ApS </Comment>
 						<CurrentStateRef Name="None" ID="{D6248CF1-9AF5-4A47-8B3E-8D265CEABF89}"/>
 						<CurrentStateRef Name="None" ID="{0ECADF30-1888-4DB0-943E-2FE9CF808976}"/>
 						<CurrentStateRef Name="normal" ID="{D8A3BE4B-90AC-4B79-8D64-B4BA3DB0A365}"/>
-						<CurrentStateRef Name="menu" ID="{1C180493-C2D9-4BFE-8121-AAA4BEF2F259}"/>
+						<CurrentStateRef Name="inGame" ID="{6989DA60-BD41-47A9-BB5C-8FCAFE1C7367}"/>
 						<CurrentStateRef Name="death" ID="{CDC939D0-95B3-4C7B-8299-29B13F1A6875}"/>
 						<CurrentStateRef Name="None" ID="{3E2BE73A-F6BA-4728-92FC-648819A67508}"/>
 						<CurrentStateRef Name="stop" ID="{F77EB7B8-111A-4208-82F7-3E81682E1843}"/>
