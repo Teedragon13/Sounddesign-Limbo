@@ -884,7 +884,7 @@ COPYRIGHT MMX BY PLAYDEAD ApS </Comment>
 					</RTPCValueList>
 					<CurrentStateList ShowAll="true">
 						<CurrentStateRef Name="minus3dB" ID="{C2446B71-8658-4659-9A6F-289E4896C58B}"/>
-						<CurrentStateRef Name="amb_sws_start_falling_enterboat" ID="{6AEA1135-BD7C-42FE-BE86-4C6CF5497B34}"/>
+						<CurrentStateRef Name="amb_sws_start_falling_enterwood" ID="{E985674A-8006-48A0-8D69-346E8208C206}"/>
 						<CurrentStateRef Name="None" ID="{5B1A40F7-78DB-42C3-A064-FEFCDF49D5F4}"/>
 						<CurrentStateRef Name="None" ID="{86124F47-6FAE-4F2B-9AE7-812D7B80DE20}"/>
 						<CurrentStateRef Name="aboveWater" ID="{A3C5E87B-F5C2-4602-937A-81067C99114D}"/>
