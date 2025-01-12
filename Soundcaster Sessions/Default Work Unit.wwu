@@ -739,7 +739,7 @@ COPYRIGHT MMX BY PLAYDEAD ApS </Comment>
 						</RTPCValue>
 						<RTPCValue>
 							<GameParameterRef Name="RTPC_XY_amb_sws_2" ID="{DDA50CAA-4EFD-419A-88AD-A16A1BDA0B49}"/>
-							<Value>0</Value>
+							<Value>100</Value>
 						</RTPCValue>
 						<RTPCValue>
 							<GameParameterRef Name="scaled_dist" ID="{D2DB1B3C-3217-41CF-9BBE-BF270CAA653D}"/>
@@ -759,7 +759,7 @@ COPYRIGHT MMX BY PLAYDEAD ApS </Comment>
 						</RTPCValue>
 						<RTPCValue>
 							<GameParameterRef Name="RTPC_XY_amb_sws" ID="{5319299B-1732-4428-AC1E-030CB3C8211E}"/>
-							<Value>0</Value>
+							<Value>100</Value>
 						</RTPCValue>
 						<RTPCValue>
 							<GameParameterRef Name="RTPC_XY_amb_evt" ID="{145D34E4-F4CD-447E-8E9C-9085D02E1500}"/>
@@ -799,7 +799,7 @@ COPYRIGHT MMX BY PLAYDEAD ApS </Comment>
 						</RTPCValue>
 						<RTPCValue>
 							<GameParameterRef Name="RTPC_XY_amb_sws_100" ID="{7BADE498-4210-472C-9C89-978E42632B79}"/>
-							<Value>100</Value>
+							<Value>0</Value>
 						</RTPCValue>
 						<RTPCValue>
 							<GameParameterRef Name="RTPC_XY_amb_evt_3" ID="{093A53D1-3304-4762-838F-C4365FA05265}"/>
@@ -897,13 +897,13 @@ COPYRIGHT MMX BY PLAYDEAD ApS </Comment>
 						<CurrentStateRef Name="death" ID="{CDC939D0-95B3-4C7B-8299-29B13F1A6875}"/>
 						<CurrentStateRef Name="None" ID="{3E2BE73A-F6BA-4728-92FC-648819A67508}"/>
 						<CurrentStateRef Name="stop" ID="{F77EB7B8-111A-4208-82F7-3E81682E1843}"/>
-						<CurrentStateRef Name="None" ID="{9F1F6070-0FD3-432B-8265-6F0EC74DE09E}"/>
+						<CurrentStateRef Name="amb_sws_spider_sitting_unfold" ID="{BF315A2E-D45C-46A7-8EF9-6744334D8FB9}"/>
 						<CurrentStateRef Name="off" ID="{F9D1C0FC-82AA-40DF-81FD-D91BF67B647A}"/>
 						<CurrentStateRef Name="None" ID="{BFD3F5E8-BBF5-4657-9B66-D1357552AB55}"/>
 						<CurrentStateRef Name="None" ID="{2F40968D-C830-4B07-949B-907A856182F3}"/>
 						<CurrentStateRef Name="None" ID="{961DA136-C523-42CA-AB1D-33E33E158299}"/>
 						<CurrentStateRef Name="None" ID="{4698862D-C18C-4E7B-A0D1-F76DA6A417EE}"/>
-						<CurrentStateRef Name="amb_sws_start" ID="{334AC6BC-F805-4C36-B28C-05039F66B047}"/>
+						<CurrentStateRef Name="amb_sws_spider" ID="{55D4B85C-6A3A-41E2-8026-F741FC3E3DF5}"/>
 						<CurrentStateRef Name="None" ID="{EDF4DC27-8FE4-4D17-A11C-F6A02F4F6CBE}"/>
 						<CurrentStateRef Name="off" ID="{27D4ECDD-0E28-4910-B6B3-72E4462F9855}"/>
 					</CurrentStateList>
