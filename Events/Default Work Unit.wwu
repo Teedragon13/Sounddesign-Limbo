@@ -2468,21 +2468,6 @@ COPYRIGHT MMX BY PLAYDEAD ApS </Comment>
 							<ChildrenList>
 								<Event Name="env_start_falling_boyEyesOpen" ID="{249174F4-16F2-4FBE-BC73-6B61FDD97036}">
 									<ChildrenList>
-										<Action Name="" ID="{ED0BF23F-2692-4765-9486-FDF495E0FB8D}" ShortID="512282021">
-											<PropertyList>
-												<Property Name="ActionType" Type="int16" Value="22"/>
-												<Property Name="Inclusion" Type="bool">
-													<ValueList>
-														<Value>False</Value>
-													</ValueList>
-												</Property>
-											</PropertyList>
-											<ReferenceList>
-												<Reference Name="Target">
-													<ObjectRef Name="waking_up" ID="{38B94287-297F-45F3-8825-7717FDB5B77E}" WorkUnitID="{52274FCC-FF38-4EDD-81BF-EC82E4A946E4}"/>
-												</Reference>
-											</ReferenceList>
-										</Action>
 										<Action Name="" ID="{874043C1-C75F-4FA2-98C0-2E2D96F15238}" ShortID="740103432">
 											<PropertyList>
 												<Property Name="ActionType" Type="int16" Value="1"/>
@@ -3051,16 +3036,6 @@ COPYRIGHT MMX BY PLAYDEAD ApS </Comment>
 															<ReferenceList>
 																<Reference Name="Target">
 																	<ObjectRef Name="None" ID="{351AA61B-937B-40E0-A57A-02C3C992C0EB}" WorkUnitID="{52274FCC-FF38-4EDD-81BF-EC82E4A946E4}"/>
-																</Reference>
-															</ReferenceList>
-														</Action>
-														<Action Name="" ID="{E5583E29-9549-4E0F-A192-1193CD5F8539}" ShortID="376948508">
-															<PropertyList>
-																<Property Name="ActionType" Type="int16" Value="22"/>
-															</PropertyList>
-															<ReferenceList>
-																<Reference Name="Target">
-																	<ObjectRef Name="None" ID="{0010EF11-CE13-4B95-8EAF-2A323F45A897}" WorkUnitID="{52274FCC-FF38-4EDD-81BF-EC82E4A946E4}"/>
 																</Reference>
 															</ReferenceList>
 														</Action>
@@ -26826,6 +26801,26 @@ Main til Help &amp; Options, Help &amp; Options til Main, Pause Menu til Main os
 										<Property Name="Scope" Type="int16" Value="1"/>
 									</PropertyList>
 									<ReferenceList/>
+								</Action>
+								<Action Name="" ID="{7FDB6054-6623-4071-8132-5C99DE852BE2}" ShortID="230186201">
+									<PropertyList>
+										<Property Name="ActionType" Type="int16" Value="22"/>
+									</PropertyList>
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="None" ID="{351AA61B-937B-40E0-A57A-02C3C992C0EB}" WorkUnitID="{52274FCC-FF38-4EDD-81BF-EC82E4A946E4}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+								<Action Name="" ID="{62857696-E852-432B-B95F-0D220EDD675E}" ShortID="845140954">
+									<PropertyList>
+										<Property Name="ActionType" Type="int16" Value="22"/>
+									</PropertyList>
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="None" ID="{0010EF11-CE13-4B95-8EAF-2A323F45A897}" WorkUnitID="{52274FCC-FF38-4EDD-81BF-EC82E4A946E4}"/>
+										</Reference>
+									</ReferenceList>
 								</Action>
 							</ChildrenList>
 						</Event>

@@ -901,7 +901,7 @@ COPYRIGHT MMX BY PLAYDEAD ApS </Comment>
 						<CurrentStateRef Name="off" ID="{F9D1C0FC-82AA-40DF-81FD-D91BF67B647A}"/>
 						<CurrentStateRef Name="None" ID="{BFD3F5E8-BBF5-4657-9B66-D1357552AB55}"/>
 						<CurrentStateRef Name="None" ID="{2F40968D-C830-4B07-949B-907A856182F3}"/>
-						<CurrentStateRef Name="breathing" ID="{BB237A7A-E3C1-41E5-8981-1581F25FDE35}"/>
+						<CurrentStateRef Name="death" ID="{0D142E2A-85EF-4714-8880-0A03739FBDC6}"/>
 						<CurrentStateRef Name="None" ID="{961DA136-C523-42CA-AB1D-33E33E158299}"/>
 						<CurrentStateRef Name="None" ID="{4698862D-C18C-4E7B-A0D1-F76DA6A417EE}"/>
 						<CurrentStateRef Name="amb_sws_start" ID="{334AC6BC-F805-4C36-B28C-05039F66B047}"/>
