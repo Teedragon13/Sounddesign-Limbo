@@ -408,15 +408,18 @@ COPYRIGHT MMX BY PLAYDEAD ApS </Comment>
 				<Folder Name="Migrated Arguments" ID="{73CE4F53-AE36-45D8-AED3-A21D27E08FA1}" ShortID="775020163"/>
 				<Folder Name="keno" ID="{956024A7-2456-4677-A368-0BC94F3CFE5E}" ShortID="606783160">
 					<ChildrenList>
-						<StateGroup Name="states_of_dying" ID="{67A7C7A5-451E-46F4-AE35-EDECE9A645B5}">
+						<StateGroup Name="girl_screams" ID="{C583D829-2916-4704-BE03-AFEDACB9A762}">
 							<ChildrenList>
-								<State Name="None" ID="{79F0B5DF-441A-4905-8B0D-22BA34DBB72F}"/>
-								<State Name="waking_up" ID="{38B94287-297F-45F3-8825-7717FDB5B77E}"/>
-								<State Name="girl_screaming" ID="{61038A2C-143A-4084-8B63-27AA03ED8FF4}"/>
-								<State Name="girl_crying" ID="{45DAF44E-EB06-43EC-8939-6C7FDE0DAC1B}"/>
-								<State Name="breathing" ID="{1F6A5B5C-1574-4FDF-9286-CAB19A5AF165}"/>
-								<State Name="death" ID="{CDC939D0-95B3-4C7B-8299-29B13F1A6875}"/>
-								<State Name="limbo" ID="{EA0D53B7-FC8A-407F-BF22-0073A2DBE87F}"/>
+								<State Name="None" ID="{0010EF11-CE13-4B95-8EAF-2A323F45A897}"/>
+								<State Name="screaming" ID="{AF4C6C36-E1F5-41B3-89CC-8D5D25973E3E}"/>
+								<State Name="crying" ID="{018EEED9-19E9-417A-BB67-ACEBC6CB9794}"/>
+							</ChildrenList>
+						</StateGroup>
+						<StateGroup Name="boy_death" ID="{3EC0114F-0363-4B8A-8C49-9A1515BAF60E}">
+							<ChildrenList>
+								<State Name="None" ID="{351AA61B-937B-40E0-A57A-02C3C992C0EB}"/>
+								<State Name="breathing" ID="{BB237A7A-E3C1-41E5-8981-1581F25FDE35}"/>
+								<State Name="death" ID="{0D142E2A-85EF-4714-8880-0A03739FBDC6}"/>
 							</ChildrenList>
 						</StateGroup>
 					</ChildrenList>
