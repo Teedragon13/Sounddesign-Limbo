@@ -23557,11 +23557,6 @@ COPYRIGHT MMX BY PLAYDEAD ApS </Comment>
 														<Action Name="" ID="{DBBC985F-14CF-405D-A20C-DE3E39F63CB6}" ShortID="556779808">
 															<PropertyList>
 																<Property Name="ActionType" Type="int16" Value="1"/>
-																<Property Name="Inclusion" Type="bool">
-																	<ValueList>
-																		<Value>False</Value>
-																	</ValueList>
-																</Property>
 															</PropertyList>
 															<ReferenceList>
 																<Reference Name="Target" CompanyID="4095" PluginID="65535" PluginType="15">
@@ -23572,6 +23567,11 @@ COPYRIGHT MMX BY PLAYDEAD ApS </Comment>
 														<Action Name="" ID="{B88983DB-6915-453A-AB2E-B737085BCAC0}" ShortID="835323489">
 															<PropertyList>
 																<Property Name="ActionType" Type="int16" Value="1"/>
+																<Property Name="Inclusion" Type="bool">
+																	<ValueList>
+																		<Value>False</Value>
+																	</ValueList>
+																</Property>
 															</PropertyList>
 															<ReferenceList>
 																<Reference Name="Target">

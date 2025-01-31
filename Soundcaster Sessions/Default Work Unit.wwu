@@ -887,7 +887,7 @@ COPYRIGHT MMX BY PLAYDEAD ApS </Comment>
 						<CurrentStateRef Name="amb_sws_start_falling_eyesopen" ID="{759C7122-8F3C-48F3-BCBC-806E2DD588A3}"/>
 						<CurrentStateRef Name="None" ID="{5B1A40F7-78DB-42C3-A064-FEFCDF49D5F4}"/>
 						<CurrentStateRef Name="None" ID="{86124F47-6FAE-4F2B-9AE7-812D7B80DE20}"/>
-						<CurrentStateRef Name="aboveWater" ID="{A3C5E87B-F5C2-4602-937A-81067C99114D}"/>
+						<CurrentStateRef Name="None" ID="{BD4832BE-83D5-4E65-8613-B9E4E0D686D5}"/>
 						<CurrentStateRef Name="normal" ID="{F8E5C6AE-8B92-4F10-9D46-1570FC31F77B}"/>
 						<CurrentStateRef Name="None" ID="{22BEFB23-61EC-4884-95EA-F78136A4F987}"/>
 						<CurrentStateRef Name="None" ID="{D6248CF1-9AF5-4A47-8B3E-8D265CEABF89}"/>
@@ -906,14 +906,14 @@ COPYRIGHT MMX BY PLAYDEAD ApS </Comment>
 						<CurrentStateRef Name="None" ID="{4698862D-C18C-4E7B-A0D1-F76DA6A417EE}"/>
 						<CurrentStateRef Name="amb_sws_start" ID="{334AC6BC-F805-4C36-B28C-05039F66B047}"/>
 						<CurrentStateRef Name="None" ID="{EDF4DC27-8FE4-4D17-A11C-F6A02F4F6CBE}"/>
-						<CurrentStateRef Name="off" ID="{27D4ECDD-0E28-4910-B6B3-72E4462F9855}"/>
+						<CurrentStateRef Name="None" ID="{2B2D67BB-3AF9-451D-B774-6C24DF20E845}"/>
 					</CurrentStateList>
 					<CurrentSwitchList ShowAll="true">
 						<CurrentSwitchRef Name="f" ID="{678BD337-5316-4D6E-B453-4BD22033091A}"/>
 						<CurrentSwitchRef Name="high" ID="{74427ADA-AB70-47EC-9224-4E0158717053}"/>
 						<CurrentSwitchRef Name="f" ID="{3D7E4968-76F2-472B-B05C-CD35EA805EE7}"/>
 						<CurrentSwitchRef Name="f" ID="{AED9C079-E6AB-4111-87B7-DC86C0DAE0B3}"/>
-						<CurrentSwitchRef Name="push_jog_step" ID="{10A5ECAD-82DE-45DE-B304-56673801FAEE}"/>
+						<CurrentSwitchRef Name="push_run_step" ID="{1663D252-573C-49E1-AA46-A431076590DD}"/>
 						<CurrentSwitchRef Name="false" ID="{EEB8A4CA-80F9-4396-8DE6-FB67D0383BA2}"/>
 						<CurrentSwitchRef Name="f" ID="{7FC6B0F7-DAEA-4BB2-A138-FFE885752EC8}"/>
 						<CurrentSwitchRef Name="f" ID="{B68F91B4-5E88-4FD4-90DB-934399E88688}"/>
@@ -926,15 +926,15 @@ COPYRIGHT MMX BY PLAYDEAD ApS </Comment>
 						<CurrentSwitchRef Name="dry" ID="{06A90C6D-9CD6-45A0-B333-DF73637155D1}"/>
 						<CurrentSwitchRef Name="f" ID="{07043BBA-455F-4A5A-8CAB-C42AA9F42030}"/>
 						<CurrentSwitchRef Name="high" ID="{CCDAC439-6A77-4668-99A5-FD5C7006B935}"/>
-						<CurrentSwitchRef Name="breath_off" ID="{4BA8032D-AA6B-4F01-8905-4A4C6827FE99}"/>
+						<CurrentSwitchRef Name="breath_on" ID="{AEA8DBB0-8D72-4B78-8226-278452846AF7}"/>
 						<CurrentSwitchRef Name="f" ID="{5C5515D7-8AA1-40BA-95C0-26CAA55F64F3}"/>
 						<CurrentSwitchRef Name="branch" ID="{285FF1D1-6667-4376-9988-4C416F0A0861}"/>
-						<CurrentSwitchRef Name="jog_step" ID="{D84E9524-413F-4B4B-BCC6-2AAEE31BD181}"/>
+						<CurrentSwitchRef Name="run_step" ID="{B00AC477-D5C9-435F-8F0F-EFE8123C0D44}"/>
 						<CurrentSwitchRef Name="f" ID="{2FF806AE-C5F6-4451-9DC7-8753B77B1D90}"/>
 						<CurrentSwitchRef Name="f" ID="{914DCEF8-F6BF-49EB-8DC8-5C317DC71846}"/>
 						<CurrentSwitchRef Name="breath_off" ID="{C55B62DB-1DDE-41A5-BB35-81F917A89CEC}"/>
 						<CurrentSwitchRef Name="boySurvive1" ID="{967E33DE-D547-472D-AB13-2A8C6C3FBC7D}"/>
-						<CurrentSwitchRef Name="pull_jog_step" ID="{C2909B0F-A5FE-4DD8-BFA1-B653B37E96C3}"/>
+						<CurrentSwitchRef Name="pull_run_step" ID="{750F489E-5EB8-4148-9EFA-907CF000237F}"/>
 						<CurrentSwitchRef Name="off" ID="{B56FEB55-1452-4B49-A97A-5D1AFBC5DAA0}"/>
 					</CurrentSwitchList>
 				</SoundcasterSession>
